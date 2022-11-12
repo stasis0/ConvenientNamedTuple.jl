@@ -1,0 +1,4 @@
+name = "ConvenientNamedTuple"
+uuid = "878b89f8-a530-477d-ac27-d508a8c3c47a"
+authors = ["stasis0 <100956578+stasis0@users.noreply.github.com>"]
+version = "0.1.0"

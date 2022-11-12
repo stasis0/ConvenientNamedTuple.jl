@@ -11,4 +11,4 @@ macro ConvenientNamedTuple(expr)
    return (; local_variables...)
 end
 
-end
+end # module
